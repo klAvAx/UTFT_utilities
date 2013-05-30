@@ -31,7 +31,7 @@ Future improvements:
 <ul><li>Numeric type support</li></ul>
 <br />
 <br />
-If you want to convert larger fonts than 64 pixel character width e-mail me or add an enhancement issue and specify what size you require also what divider you use(4,8)<br />
+If you want to convert larger fonts than 64 pixel character width e-mail me (drugrulezz@gmail.com) or add an enhancement issue and specify what size you require also what divider you use(4,8)<br />
 <br />
 <br />
-<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Car related program package</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Aldas</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a></center>
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">UTFT Utilities</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Aldas</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a></center>
