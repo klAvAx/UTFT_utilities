@@ -7,9 +7,9 @@ Utilities for UTFT library. Font file makers, image to code generators, etc...
 
 UTFT_Font_maker:
 ----------------
-UTFT_Font_maker_8:
-This app generates Font code file. Font character width must be dividable by 8.
-Current features:
+UTFT_Font_maker_8:<br />
+This app generates Font code file. Font character width must be dividable by 8.<br />
+Current features:<br />
 <ul><li>Font size auto detection</li>
 <li>Saves code file to the same dir as picture is</li>
 <li>only .png file type is supported</li></ul>
