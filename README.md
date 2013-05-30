@@ -4,11 +4,11 @@ UTFT_utilities
 Utilities for UTFT library. Font file makers, image to code generators, etc...
 
 
-
 UTFT_Font_maker:
 ----------------
 NOTE: you must use the right converter for your library, stock UTFT divider is 8 so you must use Font maker 8,<br />
-if you have modified UTFT library divider to lets say 4 you must use Font maker 4 and so on. Have fun! :)
+if you have modified UTFT library divider to lets say 4 you must use Font maker 4 and so on. Have fun! :)<br />
+<br />
 UTFT_Font_maker_8:<br />
 This app generates Font code file. Font character width must be dividable by 8.<br />
 Current features:<br />
