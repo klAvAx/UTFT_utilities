@@ -1,7 +1,8 @@
 UTFT_utilities
 ==============
 
-Utilities for UTFT library. Font file makers, image to code generators, etc...
+Utilities for UTFT library. Font file makers, image to code generators, etc...<br />
+Head to the [Wiki](wiki) to find out how to use them<br />
 
 
 UTFT_Font_maker:
