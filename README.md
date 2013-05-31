@@ -2,7 +2,7 @@ UTFT_utilities
 ==============
 
 Utilities for UTFT library. Font file makers, image to code generators, etc...<br />
-Head to the [Wiki](wiki) to find out how to use them<br />
+Head to the [Wiki](https://github.com/ozracing/UTFT_utilities/wiki) to find out how to use them<br />
 
 
 UTFT_Font_maker:
