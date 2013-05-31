@@ -15,10 +15,9 @@ This app generates Font code file. Font character width must be dividable by 8.<
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
 <li>Font size auto detection</li>
+<li>Numeric type support</li>
 <li>Saves code file to the same dir as picture is</li>
 <li>only .png file type is supported</li></ul>
-Future improvements:
-<ul><li>Numeric type support</li></ul>
 <br />
 <br />
 [UTFT_Font_maker_4](UTFT_Font_maker/UTFT_Font_maker_4.jar):<br />
