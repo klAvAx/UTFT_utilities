@@ -25,10 +25,9 @@ This app generates Font code file. Font character width must be dividable by 4.<
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
 <li>Font size auto detection</li>
+<li>Numeric type support</li>
 <li>Saves code file to the same dir as picture is</li>
 <li>only .png file type is supported</li></ul>
-Future improvements:
-<ul><li>Numeric type support</li></ul>
 <br />
 <br />
 If you want to convert larger fonts than 64 pixel character width e-mail me (drugrulezz@gmail.com) or add an enhancement issue and specify what size you require also what divider you use(4,8)<br />
