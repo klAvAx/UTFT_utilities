@@ -7,10 +7,27 @@ Head to the [Wiki](https://github.com/ozracing/UTFT_utilities/wiki) to find out 
 
 UTFT_Font_maker:
 ----------------
+NOTE: This version has graphical interface to select fWidth - Font Width, fHeight - Font Height, and check box to define if it is an numeric font<br />
+Also ability to choose between manual and automatic font generating. Have fun! :)<br />
+<br />
+[UTFT_Font_maker](UTFT_Font_maker/UTFT_Font_maker.jar):<br />
+This app generates Font code file. Font character width must be dividable by 8.<br />
+Current features:<br />
+<ul><li>Max Font character width is limited to 64 pixels</li>
+<li>Font size auto detection with ability to manualy set font size</li>
+<li>Numeric type support</li>
+<li>Saves code file to the same dir as picture is</li>
+<li>only .png file type is supported</li></ul>
+Future updates:
+<ul><li>Ability to choose the divider 4,6,8</li></ul>
+<br />
+<br />
+UTFT_Font_maker_lite:
+---------------------
 NOTE: you must use the right converter for your library, stock UTFT divider is 8 so you must use Font maker 8,<br />
 if you have modified UTFT library divider to lets say 4 you must use Font maker 4 and so on. Have fun! :)<br />
 <br />
-[UTFT_Font_maker_8](UTFT_Font_maker/UTFT_Font_maker_8.jar):<br />
+[UTFT_Font_maker_8](UTFT_Font_maker_Lite/UTFT_Font_maker_8.jar):<br />
 This app generates Font code file. Font character width must be dividable by 8.<br />
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
@@ -20,7 +37,7 @@ Current features:<br />
 <li>only .png file type is supported</li></ul>
 <br />
 <br />
-[UTFT_Font_maker_4](UTFT_Font_maker/UTFT_Font_maker_4.jar):<br />
+[UTFT_Font_maker_4](UTFT_Font_maker_Lite/UTFT_Font_maker_4.jar):<br />
 This app generates Font code file. Font character width must be dividable by 4.<br />
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
