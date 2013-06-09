@@ -21,12 +21,12 @@ Current features:<br />
 <li>only .png file type is supported</li></ul>
 <br />
 <br />
-UTFT_Font_maker_lite:
+UTFT_Font_maker_Lite:
 ---------------------
 NOTE: you must use the right converter for your library, stock UTFT divider is 8 so you must use Font maker 8,<br />
 if you have modified UTFT library divider to lets say 4 you must use Font maker 4 and so on. Have fun! :)<br />
 <br />
-[UTFT_Font_maker_8](UTFT_Font_maker_Lite/UTFT_Font_maker_8.jar):<br />
+[UTFT_Font_maker_Lite_8](UTFT_Font_maker_Lite/UTFT_Font_maker_Lite_8.jar):<br />
 This app generates Font code file. Font character width must be dividable by 8.<br />
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
@@ -36,7 +36,7 @@ Current features:<br />
 <li>only .png file type is supported</li></ul>
 <br />
 <br />
-[UTFT_Font_maker_4](UTFT_Font_maker_Lite/UTFT_Font_maker_4.jar):<br />
+[UTFT_Font_maker_Lite_4](UTFT_Font_maker_Lite/UTFT_Font_maker_Lite_4.jar):<br />
 This app generates Font code file. Font character width must be dividable by 4.<br />
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
