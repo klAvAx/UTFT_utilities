@@ -11,7 +11,7 @@ NOTE: This version has graphical interface to select fWidth - Font Width, fHeigh
 and check box to define if it is an numeric font, also ability to choose between manual and automatic font generating. Have fun! :)<br />
 <br />
 [UTFT_Font_maker](UTFT_Font_maker/UTFT_Font_maker.jar):<br />
-This app generates Font code file. Font character width must be dividable by 8.<br />
+This app generates Font code file. Font character width can be selected! Default is 8<br />
 Current features:<br />
 <ul><li>Max Font character width is limited to 64 pixels</li>
 <li>Ability to choose the divider between 4 and 8 (Default: 8)</li>
