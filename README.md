@@ -10,6 +10,9 @@ UTFT_Font_maker:
 NOTE: This version has graphical interface to select fWidth - Font Width, fHeight - Font Height, Divider - Character divider<br />
 and check box to define if it is an numeric font, also ability to choose between manual and automatic font generating. Have fun! :)<br />
 <br />
+NEW: Added ability to add font divider byte to font header (4-5 first bytes) use only with modded library which has ability to use the divider!<br />
+else it won't work or you will have anomalies with font!<br />
+<br />
 [UTFT_Font_maker](UTFT_Font_maker/UTFT_Font_maker.jar):<br />
 This app generates Font code file. Font character width can be selected! Default is 8<br />
 Current features:<br />
@@ -17,6 +20,7 @@ Current features:<br />
 <li>Ability to choose the divider between 4 and 8 (Default: 8)</li>
 <li>Font size auto detection with ability to manualy set font size (Default: Auto)</li>
 <li>Numeric type support</li>
+<li>Font divider can be added to the header</li>
 <li>Saves code file to the same dir as picture is</li>
 <li>only .png file type is supported</li></ul>
 <br />
