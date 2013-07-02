@@ -10,7 +10,7 @@ UTFT_Font_maker:
 NOTE: This version has graphical interface to select fWidth - Font Width, fHeight - Font Height, Divider - Character divider<br />
 and check box to define if it is an numeric font, also ability to choose between manual and automatic font generating. Have fun! :)<br />
 <br />
-NEW: Added ability to add font divider byte to font header (4-5 first bytes) use only with modded library which has ability to use the divider!<br />
+NEW: Added ability (Modded lib button) to add font divider byte to font header (4-5 first bytes) use only with modded library which has ability to use the divider!<br />
 else it won't work or you will have anomalies with font!<br />
 <br />
 [UTFT_Font_maker](UTFT_Font_maker/UTFT_Font_maker.jar):<br />
