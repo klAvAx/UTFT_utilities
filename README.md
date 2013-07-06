@@ -53,4 +53,16 @@ Current features:<br />
 If you want to convert larger fonts than 64 pixel character width e-mail me (drugrulezz@gmail.com) or add an enhancement issue and specify what size you require also what divider you use(4,8)<br />
 <br />
 <br />
+UTFT_RGB565_converter_C:
+------------------------
+NOTE: there are 2 flavours of this app first one is only for avr and the second is only for Due&PicKit<br />
+These apps do not have GUI, it works just like font maker lite. Have fun! :)<br />
+<br />
+[UTFT_RGB565_converter_C_avr](UTFT_RGB565_converter_C/UTFT_RGB565_converter_C_avr.jar):<br />
+This app generates RGB565 type code from png pictures for avr micros.<br />
+<br />
+[UTFT_RGB565_converter_C_due_pickit](UTFT_RGB565_converter_C/UTFT_RGB565_converter_C_due_pickit.jar):<br />
+This app generates RGB565 type code from png pictures for avr micros.<br />
+<br />
+<br />
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">UTFT Utilities</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Aldas</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a></center>
